@@ -4,4 +4,10 @@ $CMP Arduino_Nano_V3
 K arduino
 $ENDCMP
 #
+$CMP TLV702xx
+D Linear Voltage Regulator TLV702xx 300mA x.xV SOT-23-5
+K Linear Voltage Regulator TLV702xx 300mA x.xV 3.3 3,3 V v
+F http://www.ti.com/lit/ds/symlink/tlv702p.pdf
+$ENDCMP
+#
 #End Doc Library

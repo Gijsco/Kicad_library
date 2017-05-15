@@ -21,26 +21,26 @@ Public Library for Kicad project
 ### My_Transistors.lib -> to be made
 
 ### My_Resistors
-0R 0603 5% 0.1W
-1K 0603 1% 0.1W
-15K 0603 1% 0.1W
-22K 0603 5% 0.1W
-1M 0603 5% 0.1W
+- 0R 0603 5% 0.1W
+- 1K 0603 1% 0.1W
+- 15K 0603 1% 0.1W
+- 22K 0603 5% 0.1W
+- 1M 0603 5% 0.1W
 
 ### My_Capacitors
-1pF 0603 0.25P-err 50V
-1.5pF 0603 0.25P-err 50V
-4.7pF 0603 0.25P-err  50V
-22pF 0603 5% 50V
-1nF 0603 10% 50V
-2.2nF 0603 ?err 50V
-10nF 0603 ?err 50V
-33nF 0805 ?err 50V
+- 1pF 0603 0.25P-err 50V
+- 1.5pF 0603 0.25P-err 50V
+- 4.7pF 0603 0.25P-err  50V
+- 22pF 0603 5% 50V
+- 1nF 0603 10% 50V
+- 2.2nF 0603 ?err 50V
+- 10nF 0603 ?err 50V
+- 33nF 0805 ?err 50V
 
 ### My_Inductors
-2.7nH 0603 3%
-3.9nH0603 3%
-8.2nH 0603 5%
+- 2.7nH 0603 3%
+- 3.9nH0603 3%
+- 8.2nH 0603 5%
 
 
 

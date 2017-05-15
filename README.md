@@ -36,6 +36,9 @@ Public Library for Kicad project
 - 2.2nF 0603 ?err 50V
 - 10nF 0603 ?err 50V
 - 33nF 0805 ?err 50V
+- 100nF 0805 10% 50V
+- 1uF 0603 10% 16V
+- 10uF 0805 ?err 16v
 
 ### My_Inductors
 - 2.7nH 0603 3%

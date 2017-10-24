@@ -1,0 +1,17 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP JPT_26_Connector
+D Angled 26Pin Connector
+$ENDCMP
+#
+$CMP SMA_Antenna
+D SMA Antenna connector
+K SMA Antenna connector
+$ENDCMP
+#
+$CMP SMD_PAD
+D SMD Pad
+K connector finger smd pad
+$ENDCMP
+#
+#End Doc Library

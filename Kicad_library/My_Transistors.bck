@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N7002
+D 60V Vds, 0.18A Id, N-Channel MOSFET, SOT-23/TO-236
+K N-Channel MOSFET Logic Level
+F https://www.fairchildsemi.com/datasheets/2N/2N7002.pdf
+$ENDCMP
+#
+$CMP Si2301/A1SHB
+D -20V Vds, 0.15A Id, 8V VGS, P-Channel MOSFET, SOT-23/TO-236
+K P-Channel MOSFET Logic Level
+F http://www.vishay.com/docs/70627/70627.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Arduino_Nano_V3
+D Arduino Nano V3 Module
+K arduino
+$ENDCMP
+#
+#End Doc Library

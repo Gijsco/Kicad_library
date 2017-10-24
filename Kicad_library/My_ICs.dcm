@@ -1,0 +1,36 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACS758_Current_Sensor
+D Thermally Enhanced, Fully Integrated, Hall Effect-Based Linear Current Sensor IC with 100 µΩ Current Conductor
+K ACS 758 Current Sensor
+$ENDCMP
+#
+$CMP ATMEGA328p-AU
+D TQFP32, 32k Flash, 2kB SRAM, 1kB EEPROM
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP LT1027
+D Precision 5V Reference 15mA
+$ENDCMP
+#
+$CMP NRF24L01
+D Single Chip 2.4GHz Transceiver
+K RF Transmitter Receiver Transceiver 2.4 GHz Nordic Semiconductor
+F https://www.sparkfun.com/datasheets/Components/SMD/nRF24L01Pluss_Preliminary_Product_Specification_v1_0.pdf
+$ENDCMP
+#
+$CMP TLV702xx
+D Linear Voltage Regulator TLV702xx 300mA x.xV SOT-23-5
+K Linear Voltage Regulator TLV702xx 300mA x.xV 3.3 3,3 V v
+F http://www.ti.com/lit/ds/symlink/tlv702p.pdf
+$ENDCMP
+#
+$CMP TP4056
+D Standalone Linear Li-lon Battery Charger with Thermal Regulation in SOP-8
+K Li-Ion Charger Regulator
+F https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf
+$ENDCMP
+#
+#End Doc Library

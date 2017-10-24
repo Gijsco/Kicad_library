@@ -9,3 +9,4 @@
 - Double click the button to go to visual basic
 - In visual Basic add a Module by right klicking the module folder on the left hand side
 - Change the code to the code in this folder
+- Safe the file in you kicad project folder as .xlsm

@@ -1,0 +1,5 @@
+Private Sub CommandButtonSeeedStudio_Click()
+
+    Call Module1.SeeedStudio_Click
+
+End Sub

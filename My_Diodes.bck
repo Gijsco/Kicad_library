@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP ZMM3V0
-D 3V Zener Diode 0.5W 1206 SMD
-K 3V Zener Diode 0.5W 1206 SMD
-F http://pdf.datasheetcatalog.com/datasheets/70/371484_DS.pdf
-$ENDCMP
-#
-#End Doc Library
